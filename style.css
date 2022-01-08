@@ -1,0 +1,92 @@
+body{
+    background-color: #4298c7;
+    text-align: center;
+    padding-top: 800px;
+    
+}
+h1{
+    color: cornsilk;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    
+}
+h2{
+    color: mediumaquamarine;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+#section{
+font-family: cursive;
+padding: 50px;
+}
+#sec1{
+    background-color:paleturquoise;
+bottom: 0;
+position: absolute;
+display: table;
+width: 100%;
+height: 100%;
+}
+p{
+    color: rgb(234, 240, 184);
+}
+.parala{
+    display: table-cell;
+    vertical-align: middle;
+}
+#hola{
+    color: tomato;
+    font-family: cursive;
+}
+.menu{
+    
+    position: fixed;
+    top:0px;
+    z-index:10;
+    cursor:pointer;
+    background-color: rgba(255, 248, 220, 0.795);
+    margin-top: 0px;
+    width: 100%;
+  
+  }
+.links{
+   display: inline;
+   padding-left: 33px;
+   padding-right: 25px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 20px;
+  
+}
+.links:hover{
+    text-decoration: underline;
+    font-size: 25px;
+ 
+}
+.linee{
+    text-decoration: none;
+    font-size: larger;
+    font-family: cursive;
+    color: chartreuse;
+}
+a{
+    text-decoration: none;
+}
+#restaurantes{
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: greenyellow !important;
+}
+#contactos{
+    background-color: rgba(243, 92, 92, 0.897);
+}
+#contactos iframe{
+    width: 70%
+}
+.contacto1 h1{
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: rgb(147, 227, 247) !important;
+   
+}
+
+
